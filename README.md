@@ -1,16 +1,32 @@
 ## Hi there 👋
+<h1 align="center">Hi, I'm Maria Deekshitha 👋</h1>
 
-<!--
-**madeered/madeered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **AI & Data Science Engineering Student**  
+🔍 Currently diving deep into **Python**, **Machine Learning**, and **Data Science** 
+💻 I love learning by doing — from mini ML models to real-world problem solving  
+🎯 Aspiring **Data Scientist** with an eye on impactful internships
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills I'm Building:
+- Python 🐍
+- Machine Learning 🤖
+- Git & GitHub 🗃️
+- Data Analysis 📊
+
+---
+
+### 🌟 Projects I'm Working On:
+- 📱 Emotional connection AI app (in planning)
+- 🔍 ML course by Andrew Ng
+
+---
+
+### 📫 Let's Connect!
+- 📍 Location: India 🇮🇳
+- 📧 Email: mariadeekshithareddy@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/maria-deekshitha-101a80304
+
+---
+
+> “I'm just getting started — but I'm building something real every day 🚀”
