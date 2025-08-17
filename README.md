@@ -4,7 +4,7 @@
 🌱 **AI & Data Science Engineering Student**  
 🔍 Currently diving deep into **Python**, **Machine Learning**, and **Data Science** 
 💻 I love learning by doing — from mini ML models to real-world problem solving  
-🎯 Aspiring **Data Scientist** with an eye on impactful internships
+🎯 Aspiring **Data Scientist** with an eye on internships
 
 ---
 
@@ -17,7 +17,6 @@
 ---
 
 ### 🌟 Projects I'm Working On:
-- 📱 Emotional connection AI app (in planning)
 - 🔍 ML course by Andrew Ng
 
 ---
@@ -28,5 +27,3 @@
 - 💼 LinkedIn: www.linkedin.com/in/maria-deekshitha-101a80304
 
 ---
-
-> “I'm just getting started — but I'm building something real every day 🚀”
